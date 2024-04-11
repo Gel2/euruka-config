@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d85926cf-8aaf-44d2-88f1-7a5a4f778ad9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config-client/dev/config-client.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/master/config-client.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/test/config-client.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-client-b/dev/eureka-client-b.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/src/main/java/com/example/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/config-server/src/test/java/com/example/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/src/main/java/com/example/eurekaclient/Controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/src/main/resources/server_instance_service_client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/src/main/resources/настройки_Eureka Client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-client/src/test/java/com/example/eurekaclient/EurekaClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/src/main/java/com/igor/micro/server/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-micro-demo/eureka-server/src/test/java/com/igor/micro/server/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-micro-demo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-micro-demo/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-micro-demo/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-micro-demo/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2exLWkSrG2RyYGDWlQdt3KgloCL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d85926cf-8aaf-44d2-88f1-7a5a4f778ad9" name="Changes" comment="" />
+      <created>1712841317560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712841317560</updated>
+      <workItem from="1712841318666" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
